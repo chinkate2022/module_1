@@ -100,7 +100,7 @@
 
 # Mobile technology will be a great additional service utilization because as the connectivity of mobile service continues to improve, more customers will continuse telephone to find information and service.
 
-# Why are these technologies appropriate for your solution?\
+# Why are these technologies appropriate for your solution?
 
 # Betterment is still best Robo investment company for the first time investors. Betterment can capture more first time investors by using friendly mobile apps and pre install mobile apps in major phone companies, like netflix.
 
