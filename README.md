@@ -1,7 +1,7 @@
 #Title  Fintech Investment management
 
 
-![An image Betterment]()
+![An image Betterment](https://github.com/chinkate2022/module_1/blob/main/betterment_wordmark_black.jpg)
 
 
 #What is the name of the company?
