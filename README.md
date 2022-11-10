@@ -1,5 +1,9 @@
 #Title  Fintech Investment management
 
+
+![An image Betterment]()
+
+
 #What is the name of the company?
 
 Betterment
